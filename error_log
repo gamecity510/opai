@@ -1,0 +1,1282 @@
+[19-Dec-2024 15:57:36 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:04:18 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'s272.bitcommand.com' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:04:26 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'s272.bitcommand.com' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:04:53 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'s272.bitcommand.com' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:08:42 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:11:04 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:13:01 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:13:01 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:14:49 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:14:49 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:15:21 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:15:21 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:20:41 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:20:41 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:22:46 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:22:46 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:23:02 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:23:02 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:40:07 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:40:07 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:40:22 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:40:22 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:40:37 Europe/London] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:40:37 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:41:53 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:43:21 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[19-Dec-2024 16:43:36 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[20-Dec-2024 13:02:47 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[21-Dec-2024 06:08:21 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[21-Dec-2024 15:40:05 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[23-Dec-2024 06:16:49 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[23-Dec-2024 16:14:24 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'opaiir_sepanta'@'localhost' to database 'opaiir_login' in /home/opaiir/public_html/login.php on line 8
+[25-Dec-2024 07:26:05 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/opaiir/public_html/login.php on line 2
+[25-Dec-2024 07:26:05 Europe/London] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/opaiir/public_html/login.php on line 5
+[25-Dec-2024 07:26:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function close() on bool in /home/opaiir/public_html/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 17
+[25-Dec-2024 08:35:32 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/login.php on line 14
+[25-Dec-2024 08:35:32 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/login.php on line 15
+[25-Dec-2024 08:35:32 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/login.php on line 16
+[25-Dec-2024 08:35:32 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/login.php on line 17
+[25-Dec-2024 09:22:30 Europe/London] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/opaiir/public_html/login.php on line 21
+[25-Dec-2024 09:23:46 Europe/London] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/opaiir/public_html/login.php on line 20
+[25-Dec-2024 09:23:46 Europe/London] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/opaiir/public_html/login.php on line 20
+[25-Dec-2024 09:23:47 Europe/London] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE) in /home/opaiir/public_html/login.php on line 20
+[25-Dec-2024 09:24:15 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/login.php on line 14
+[25-Dec-2024 09:24:15 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/login.php on line 15
+[25-Dec-2024 09:24:15 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/login.php on line 16
+[25-Dec-2024 09:24:15 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/login.php on line 17
+[25-Dec-2024 10:23:19 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/ai.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/ai.php on line 18
+[25-Dec-2024 10:26:16 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/ai.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/ai.php on line 19
+[25-Dec-2024 10:26:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/ai.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/ai.php on line 19
+[25-Dec-2024 10:30:29 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/api.php on line 19
+[25-Dec-2024 10:31:47 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/api.php on line 19
+[25-Dec-2024 10:32:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/api.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/api.php on line 19
+[25-Dec-2024 10:36:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function str_starts_with() in /home/opaiir/public_html/api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/api.php on line 20
+[13-Jan-2025 11:33:17 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/signin.php on line 116
+[13-Jan-2025 11:33:17 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/signin.php on line 117
+[13-Jan-2025 11:33:17 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/signin.php on line 118
+[13-Jan-2025 11:33:17 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/signin.php on line 119
+[13-Jan-2025 11:34:36 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/signin.php on line 116
+[13-Jan-2025 11:34:36 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/signin.php on line 117
+[13-Jan-2025 11:34:36 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/signin.php on line 118
+[13-Jan-2025 11:34:36 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/signin.php on line 119
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/signin.php on line 116
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/signin.php on line 117
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/signin.php on line 118
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/signin.php on line 119
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/signin.php on line 116
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/signin.php on line 117
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/signin.php on line 118
+[13-Jan-2025 11:34:37 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/signin.php on line 119
+[13-Jan-2025 11:48:38 Europe/London] PHP Parse error:  syntax error, unexpected 'خطا' (T_STRING), expecting ';' or ',' in /home/opaiir/public_html/login.php on line 47
+[13-Jan-2025 11:48:49 Europe/London] PHP Parse error:  syntax error, unexpected 'خطا' (T_STRING), expecting ';' or ',' in /home/opaiir/public_html/login.php on line 47
+[14-Jan-2025 17:39:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/login.php on line 38
+[14-Jan-2025 17:39:50 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/login.php on line 39
+[14-Jan-2025 17:39:50 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/login.php on line 40
+[14-Jan-2025 17:39:50 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/login.php on line 41
+[14-Jan-2025 17:40:17 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/login.php on line 38
+[14-Jan-2025 17:40:17 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/login.php on line 39
+[14-Jan-2025 17:40:17 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/login.php on line 40
+[14-Jan-2025 17:40:17 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/login.php on line 41
+[14-Jan-2025 17:40:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/login.php on line 38
+[14-Jan-2025 17:40:58 Europe/London] PHP Notice:  Undefined index: email in /home/opaiir/public_html/login.php on line 39
+[14-Jan-2025 17:40:58 Europe/London] PHP Notice:  Undefined index: pass in /home/opaiir/public_html/login.php on line 40
+[14-Jan-2025 17:40:58 Europe/London] PHP Notice:  Undefined index: tell in /home/opaiir/public_html/login.php on line 41
+[14-Jan-2025 19:30:03 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/opaiir/public_html/test.php on line 10
+[15-Jan-2025 13:45:59 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 17
+[15-Jan-2025 13:46:02 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 17
+[15-Jan-2025 13:46:40 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 17
+[15-Jan-2025 13:46:43 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 17
+[15-Jan-2025 13:46:59 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 17
+[15-Jan-2025 13:47:02 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 17
+[15-Jan-2025 20:05:33 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/show.php on line 25
+[15-Jan-2025 20:09:14 Europe/London] PHP Notice:  Undefined variable: _SESSION in /home/opaiir/public_html/show.php on line 21
+[15-Jan-2025 20:09:14 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/show.php on line 21
+[15-Jan-2025 20:09:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/show.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/show.php on line 26
+[15-Jan-2025 20:09:15 Europe/London] PHP Notice:  Undefined variable: _SESSION in /home/opaiir/public_html/show.php on line 21
+[15-Jan-2025 20:09:15 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/show.php on line 21
+[15-Jan-2025 20:09:15 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/show.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/show.php on line 26
+[15-Jan-2025 20:09:51 Europe/London] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/opaiir/public_html/show.php on line 8
+[15-Jan-2025 20:09:52 Europe/London] PHP Parse error:  syntax error, unexpected '$servername' (T_VARIABLE) in /home/opaiir/public_html/show.php on line 8
+[15-Jan-2025 20:10:53 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/show.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/show.php on line 27
+[15-Jan-2025 20:11:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/show.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/show.php on line 23
+[15-Jan-2025 20:11:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/show.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/show.php on line 23
+[15-Jan-2025 20:11:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/show.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/show.php on line 23
+[15-Jan-2025 20:28:47 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 102
+[15-Jan-2025 20:28:53 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[15-Jan-2025 20:28:53 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 102
+[15-Jan-2025 20:49:08 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/opaiir/public_html/index.php on line 598
+[15-Jan-2025 22:16:31 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[15-Jan-2025 22:17:15 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[15-Jan-2025 22:17:47 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[15-Jan-2025 22:18:30 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[15-Jan-2025 22:35:52 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/signin.php on line 125
+[15-Jan-2025 22:35:52 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 22:35:52 Europe/London] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/opaiir/public_html/signin.php on line 141
+[15-Jan-2025 22:37:50 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/signin.php on line 125
+[15-Jan-2025 22:37:50 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 22:39:02 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/signin.php on line 125
+[15-Jan-2025 22:39:02 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 22:39:55 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 22:40:44 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 22:43:11 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 23:07:53 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 23:13:39 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 144
+[15-Jan-2025 23:13:43 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 144
+[15-Jan-2025 23:14:26 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 144
+[15-Jan-2025 23:15:43 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/signin.php on line 135
+[15-Jan-2025 23:15:43 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/signin.php on line 136
+[15-Jan-2025 23:16:03 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/signin.php on line 135
+[15-Jan-2025 23:16:03 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/signin.php on line 136
+[15-Jan-2025 23:19:02 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 23:27:15 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[15-Jan-2025 23:28:42 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[16-Jan-2025 08:01:31 Europe/London] PHP Notice:  Undefined variable: db_username in /home/opaiir/public_html/login.php on line 29
+[16-Jan-2025 08:01:31 Europe/London] PHP Notice:  Undefined variable: db_password in /home/opaiir/public_html/login.php on line 29
+[16-Jan-2025 08:01:31 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/opaiir/public_html/login.php on line 29
+[16-Jan-2025 08:05:09 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 43
+[16-Jan-2025 08:05:26 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 43
+[16-Jan-2025 08:05:41 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 43
+[16-Jan-2025 08:07:02 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 43
+[16-Jan-2025 08:07:16 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 43
+[16-Jan-2025 08:09:28 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 46
+[16-Jan-2025 08:13:38 Europe/London] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/opaiir/public_html/login.php on line 45
+[16-Jan-2025 08:16:55 Europe/London] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/opaiir/public_html/login.php on line 45
+[16-Jan-2025 08:16:57 Europe/London] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/opaiir/public_html/login.php on line 45
+[16-Jan-2025 08:17:00 Europe/London] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/opaiir/public_html/login.php on line 45
+[16-Jan-2025 08:26:13 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 46
+[16-Jan-2025 08:28:08 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 43
+[16-Jan-2025 08:32:15 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/login.php on line 46
+[16-Jan-2025 08:37:03 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 28
+[16-Jan-2025 08:37:10 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 28
+[16-Jan-2025 08:39:51 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 28
+[16-Jan-2025 08:41:46 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 28
+[16-Jan-2025 08:50:31 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 28
+[16-Jan-2025 08:59:29 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[16-Jan-2025 09:00:41 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[16-Jan-2025 09:08:41 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:41 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:41 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:08:42 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:42 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:08:43 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:43 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:08:44 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:44 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:08:44 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:44 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:08:44 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:44 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:08:45 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 78
+[16-Jan-2025 09:08:45 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 79
+[16-Jan-2025 09:08:45 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 83
+[16-Jan-2025 09:09:24 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/login.php on line 18
+[16-Jan-2025 09:09:24 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 19
+[16-Jan-2025 09:09:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/opaiir/public_html/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/login.php on line 23
+[16-Jan-2025 09:24:22 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 40
+[16-Jan-2025 09:24:36 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 40
+[16-Jan-2025 09:28:06 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[16-Jan-2025 09:41:24 Europe/London] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/opaiir/public_html/login.php on line 17
+[16-Jan-2025 09:58:02 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/login.php on line 36
+[16-Jan-2025 09:58:40 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[16-Jan-2025 13:36:27 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[16-Jan-2025 13:36:38 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[16-Jan-2025 13:39:04 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 08:00:22 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 08:16:13 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 08:31:37 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 08:31:54 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 08:32:16 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 08:32:27 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 09:40:43 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 09:41:08 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 11:27:37 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 14:39:31 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 14:41:13 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 14:42:42 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 14:47:10 Europe/London] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/opaiir/public_html/signin.php on line 131
+[17-Jan-2025 14:47:49 Europe/London] PHP Notice:  Undefined index: password in /home/opaiir/public_html/login.php on line 39
+[17-Jan-2025 15:24:23 Europe/London] PHP Warning:  password_verify() expects exactly 2 parameters, 1 given in /home/opaiir/public_html/login.php on line 40
+[18-Jan-2025 06:18:39 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[18-Jan-2025 16:08:42 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[18-Jan-2025 16:08:42 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 104
+[18-Jan-2025 16:14:12 Europe/London] PHP Warning:  include(product.php): failed to open stream: No such file or directory in /home/opaiir/public_html/store.php on line 335
+[18-Jan-2025 16:14:12 Europe/London] PHP Warning:  include(product.php): failed to open stream: No such file or directory in /home/opaiir/public_html/store.php on line 335
+[18-Jan-2025 16:14:12 Europe/London] PHP Warning:  include(): Failed opening 'product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/opaiir/public_html/store.php on line 335
+[18-Jan-2025 16:14:13 Europe/London] PHP Warning:  include(product.php): failed to open stream: No such file or directory in /home/opaiir/public_html/store.php on line 335
+[18-Jan-2025 16:14:13 Europe/London] PHP Warning:  include(product.php): failed to open stream: No such file or directory in /home/opaiir/public_html/store.php on line 335
+[18-Jan-2025 16:14:13 Europe/London] PHP Warning:  include(): Failed opening 'product.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/opaiir/public_html/store.php on line 335
+[18-Jan-2025 16:44:19 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/panel.php on line 3
+[18-Jan-2025 16:44:27 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/panel.php on line 3
+[18-Jan-2025 19:29:00 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/panel.php on line 3
+[18-Jan-2025 19:53:56 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[18-Jan-2025 19:54:00 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[18-Jan-2025 19:54:01 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[19-Jan-2025 05:07:25 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[19-Jan-2025 05:07:27 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[19-Jan-2025 05:12:46 Europe/London] PHP Notice:  Undefined index: username in /home/opaiir/public_html/accounts.php on line 16
+[19-Jan-2025 08:55:56 Europe/London] PHP Notice:  session_start(): A session had already been started - ignoring in /home/opaiir/public_html/accounts.php on line 34
+[19-Jan-2025 12:12:30 Europe/London] PHP Notice:  session_start(): A session had already been started - ignoring in /home/opaiir/public_html/accounts.php on line 34
+[19-Jan-2025 12:17:05 Europe/London] PHP Notice:  session_start(): A session had already been started - ignoring in /home/opaiir/public_html/accounts.php on line 34
+[19-Jan-2025 13:51:49 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 13:52:14 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 13:52:14 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 13:52:20 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 13:52:21 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 13:52:22 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 13:52:22 Europe/London] PHP Parse error:  syntax error, unexpected '{', expecting ':' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 14:23:43 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 14:28:18 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 14:28:28 Europe/London] PHP Parse error:  syntax error, unexpected '<' in /home/opaiir/public_html/index.php on line 433
+[19-Jan-2025 14:30:15 Europe/London] PHP Notice:  session_start(): A session had already been started - ignoring in /home/opaiir/public_html/accounts.php on line 34
+[19-Jan-2025 18:00:52 Europe/London] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opaiir/public_html/index.php on line 422
+[19-Jan-2025 18:03:20 Europe/London] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opaiir/public_html/index.php on line 422
+[19-Jan-2025 18:03:21 Europe/London] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opaiir/public_html/index.php on line 422
+[19-Jan-2025 18:03:27 Europe/London] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/opaiir/public_html/index.php on line 422
+[20-Jan-2025 10:47:49 Europe/London] PHP Notice:  Undefined variable: expireTime in /home/opaiir/public_html/login.php on line 7
+[20-Jan-2025 10:47:49 Europe/London] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when session is active in /home/opaiir/public_html/login.php on line 7
+[20-Jan-2025 10:56:20 Europe/London] PHP Notice:  session_start(): A session had already been started - ignoring in /home/opaiir/public_html/test.php on line 54
+[20-Jan-2025 10:59:26 Europe/London] PHP Notice:  Undefined variable: conn in /home/opaiir/public_html/test.php on line 12
+[20-Jan-2025 10:59:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/opaiir/public_html/test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/test.php on line 12
+[20-Jan-2025 10:59:27 Europe/London] PHP Notice:  Undefined variable: conn in /home/opaiir/public_html/test.php on line 12
+[20-Jan-2025 10:59:27 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/opaiir/public_html/test.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/test.php on line 12
+[20-Jan-2025 11:00:40 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:00:40 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:00:44 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:00:46 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:00:46 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:04:39 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:04:39 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:04:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:04:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:04:51 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:05:19 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:05:19 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:06:31 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:06:31 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:06:53 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:06:53 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:09:07 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:09:07 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:09:09 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:09:11 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:09:11 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:09:14 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:09:14 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:09:15 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:09:17 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:09:17 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:12:09 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:12:09 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:12:20 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:12:20 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:15:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:15:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:16:06 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:16:06 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:54:33 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 11:54:33 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 11:54:36 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 12:08:34 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 12:08:34 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 12:09:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 12:09:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 12:29:19 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 12:29:19 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 12:29:21 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 13:29:06 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 13:29:06 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 13:29:43 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 13:29:43 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 13:30:11 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 13:30:11 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 13:31:18 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 13:31:18 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 14:03:03 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 14:03:03 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 14:03:06 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:46:17 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:46:17 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 16:51:13 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:13 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:51:28 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:28 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:51:28 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:28 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:51:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:51:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:51:30 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:30 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:51:39 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:51:39 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:55 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:55 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:52:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:52:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:55:38 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:55:38 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 111
+[20-Jan-2025 16:59:13 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 16:59:13 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[20-Jan-2025 17:04:18 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[20-Jan-2025 17:04:18 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 05:04:41 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 05:04:41 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 05:04:41 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 05:04:41 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 05:04:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 05:04:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 05:05:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 05:05:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 05:06:04 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 05:06:04 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 05:12:27 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 05:12:27 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 06:20:11 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 06:20:11 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 06:22:46 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 06:22:46 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 06:22:48 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 07:18:49 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 07:18:49 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 07:18:51 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 07:27:45 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 07:27:45 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 08:49:00 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 08:49:00 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 08:49:07 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 08:49:07 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 08:49:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 08:49:57 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 09:01:29 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:01:29 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:01:29 Europe/London] PHP Notice:  Undefined variable: divContent in /home/opaiir/public_html/panel.php on line 57
+[21-Jan-2025 09:02:38 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:02:38 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:02:38 Europe/London] PHP Notice:  Undefined variable: divContent in /home/opaiir/public_html/panel.php on line 57
+[21-Jan-2025 09:04:06 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:04:06 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:05:25 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:05:25 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 42
+[21-Jan-2025 09:09:26 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 09:09:26 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 09:13:37 Europe/London] PHP Notice:  Undefined variable: _POSt in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 09:13:37 Europe/London] PHP Notice:  Trying to access array offset on value of type null in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 11:08:19 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 11:08:19 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 11:08:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 11:08:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 12:50:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 12:50:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 12:51:48 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 12:51:48 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 12:51:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 12:51:55 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 12:51:55 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 12:53:10 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 12:53:10 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:05:04 Europe/London] PHP Parse error:  syntax error, unexpected 'psh' (T_STRING), expecting ';' or ',' in /home/opaiir/public_html/store.php on line 291
+[21-Jan-2025 13:05:16 Europe/London] PHP Parse error:  syntax error, unexpected 'psh' (T_STRING), expecting ';' or ',' in /home/opaiir/public_html/store.php on line 291
+[21-Jan-2025 13:10:34 Europe/London] PHP Notice:  session_start(): A session had already been started - ignoring in /home/opaiir/public_html/store.php on line 286
+[21-Jan-2025 13:10:56 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:10:56 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:11:03 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:11:03 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:11:05 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:11:05 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:11:40 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:11:40 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:11:46 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:11:46 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:11:47 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:11:52 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:11:52 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:13:24 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:13:24 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:14:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:14:02 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:50 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:14:52 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:54 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:54 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:14:55 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:14:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:14:59 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:15:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:15:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:15:01 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:25:14 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/store.php on line 296
+[21-Jan-2025 13:26:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:26:58 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:27:00 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:27:02 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:27:02 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:27:04 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:27:09 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:27:09 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:27:54 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:27:54 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:29:58 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/opaiir/public_html/verify.php on line 19
+[21-Jan-2025 13:30:42 Europe/London] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/opaiir/public_html/verify.php on line 19
+[21-Jan-2025 13:41:54 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:41:54 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:41:56 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:42:07 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:42:07 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:42:09 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:45:23 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:45:23 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:45:25 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:45:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:45:29 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:46:23 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:46:23 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:46:56 Europe/London] PHP Notice:  Undefined index: user in /home/opaiir/public_html/panel.php on line 3
+[21-Jan-2025 13:51:47 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:51:47 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:51:49 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:51:53 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:51:53 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 13:57:35 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 13:57:35 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:15:06 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:15:06 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:15:21 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:15:21 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:15:22 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:15:29 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:15:29 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:49:31 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:49:31 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:54:56 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:54:56 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:54:59 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:54:59 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:55:05 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[21-Jan-2025 14:55:20 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[21-Jan-2025 14:55:22 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[21-Jan-2025 14:55:25 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[21-Jan-2025 14:55:35 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[21-Jan-2025 14:55:37 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[21-Jan-2025 14:55:39 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:55:39 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:55:40 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:55:40 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:55:43 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:55:56 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:55:56 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:56:18 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:56:18 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:56:18 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:56:18 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:56:44 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:56:44 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:57:27 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:57:27 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 14:59:45 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 14:59:45 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 15:00:03 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:00:08 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:00:08 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 15:02:19 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:02:19 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 15:02:22 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:02:24 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:02:24 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 15:02:26 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:02:39 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:02:39 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 106
+[21-Jan-2025 15:02:41 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 16
+[21-Jan-2025 15:43:20 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:20 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:21 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:21 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:22 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:22 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:22 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:22 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:23 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 15:43:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 17:55:36 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 17:55:36 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 17:59:25 Europe/London] PHP Warning:  Undefined variable $stmt_one in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 17:59:25 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/accounts.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 31
+[21-Jan-2025 18:05:07 Europe/London] PHP Fatal error:  Uncaught Error: Object of class mysqli_stmt could not be converted to string in /home/opaiir/public_html/accounts.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 24
+[21-Jan-2025 18:05:31 Europe/London] PHP Warning:  Undefined variable $num in /home/opaiir/public_html/accounts.php on line 120
+[21-Jan-2025 18:05:44 Europe/London] PHP Warning:  Undefined variable $num in /home/opaiir/public_html/accounts.php on line 120
+[21-Jan-2025 18:05:54 Europe/London] PHP Warning:  Undefined variable $num in /home/opaiir/public_html/accounts.php on line 120
+[21-Jan-2025 18:11:10 Europe/London] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/opaiir/public_html/accounts.php:34
+Stack trace:
+#0 /home/opaiir/public_html/accounts.php(34): mysqli->prepare()
+#1 {main}
+  thrown in /home/opaiir/public_html/accounts.php on line 34
+[21-Jan-2025 18:12:18 Europe/London] PHP Warning:  Undefined variable $num in /home/opaiir/public_html/accounts.php on line 127
+[21-Jan-2025 18:32:55 Europe/London] PHP Warning:  Undefined variable $_POSt in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 18:32:55 Europe/London] PHP Warning:  Trying to access array offset on null in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 18:39:06 Europe/London] PHP Warning:  Undefined variable $_POSt in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 18:39:06 Europe/London] PHP Warning:  Trying to access array offset on null in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 18:39:38 Europe/London] PHP Warning:  Undefined variable $_POSt in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 18:39:38 Europe/London] PHP Warning:  Trying to access array offset on null in /home/opaiir/public_html/panel.php on line 10
+[21-Jan-2025 18:41:33 Europe/London] PHP Parse error:  Unmatched '}' in /home/opaiir/public_html/panel.php on line 44
+[21-Jan-2025 18:41:35 Europe/London] PHP Parse error:  Unmatched '}' in /home/opaiir/public_html/panel.php on line 44
+[21-Jan-2025 18:56:05 Europe/London] PHP Warning:  Undefined variable $content in /home/opaiir/public_html/panel.php on line 25
+[21-Jan-2025 19:47:43 Europe/London] PHP Warning:  Undefined variable $conn in /home/opaiir/public_html/panel.php on line 70
+[21-Jan-2025 19:47:43 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/opaiir/public_html/panel.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 70
+[21-Jan-2025 19:50:52 Europe/London] PHP Warning:  Undefined variable $conn in /home/opaiir/public_html/panel.php on line 68
+[21-Jan-2025 19:50:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/opaiir/public_html/panel.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 68
+[21-Jan-2025 19:53:11 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '5.116.117.240' for key 'ip_address' in /home/opaiir/public_html/panel.php:74
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(74): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 74
+[21-Jan-2025 19:53:26 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '5.116.117.240' for key 'ip_address' in /home/opaiir/public_html/panel.php:74
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(74): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 74
+[21-Jan-2025 20:07:34 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '5.118.117.240' for key 'ip_address' in /home/opaiir/public_html/panel.php:74
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(74): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 74
+[21-Jan-2025 20:09:51 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '5.118.117.240' for key 'ip_address' in /home/opaiir/public_html/panel.php:74
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(74): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 74
+[21-Jan-2025 20:11:52 Europe/London] PHP Parse error:  syntax error, unexpected token "/" in /home/opaiir/public_html/panel.php on line 84
+[21-Jan-2025 20:11:58 Europe/London] PHP Parse error:  syntax error, unexpected token "/" in /home/opaiir/public_html/panel.php on line 84
+[22-Jan-2025 09:04:59 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[22-Jan-2025 09:05:00 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[22-Jan-2025 09:05:01 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[22-Jan-2025 09:05:01 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[22-Jan-2025 09:05:04 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[22-Jan-2025 09:05:05 Europe/London] PHP Warning:  Undefined array key "test" in /home/opaiir/public_html/test.php on line 5
+[22-Jan-2025 09:05:35 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[22-Jan-2025 11:00:18 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[22-Jan-2025 13:01:53 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[22-Jan-2025 13:17:52 Europe/London] PHP Warning:  Undefined variable $filename in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 13:17:52 Europe/London] PHP Deprecated:  file_put_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 13:17:52 Europe/London] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/opaiir/public_html/panel.php:62
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(62): file_put_contents()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 13:18:15 Europe/London] PHP Warning:  Undefined variable $filepath in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 13:18:15 Europe/London] PHP Deprecated:  file_put_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 13:18:15 Europe/London] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/opaiir/public_html/panel.php:62
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(62): file_put_contents()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 15:02:53 Europe/London] PHP Warning:  Undefined variable $filepath in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 15:02:53 Europe/London] PHP Deprecated:  file_put_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 15:02:53 Europe/London] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/opaiir/public_html/panel.php:62
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(62): file_put_contents()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 62
+[22-Jan-2025 15:07:52 Europe/London] PHP Warning:  Undefined variable $filepath in /home/opaiir/public_html/panel.php on line 61
+[22-Jan-2025 15:07:52 Europe/London] PHP Deprecated:  file_put_contents(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/opaiir/public_html/panel.php on line 61
+[22-Jan-2025 15:07:52 Europe/London] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/opaiir/public_html/panel.php:61
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(61): file_put_contents()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 61
+[22-Jan-2025 17:23:53 Europe/London] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/opaiir/public_html/Untitled-2.php on line 34
+[23-Jan-2025 13:14:04 Europe/London] PHP Parse error:  Unclosed '{' on line 19 in /home/opaiir/public_html/store.php on line 460
+[23-Jan-2025 13:16:11 Europe/London] PHP Warning:  Array to string conversion in /home/opaiir/public_html/store.php on line 366
+[23-Jan-2025 13:23:58 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mMMM' in 'where clause' in /home/opaiir/public_html/panel.php:61
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(61): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 61
+[23-Jan-2025 13:28:33 Europe/London] PHP Fatal error:  Cannot use try without catch or finally in /home/opaiir/public_html/panel.php on line 58
+[23-Jan-2025 13:28:35 Europe/London] PHP Fatal error:  Cannot use try without catch or finally in /home/opaiir/public_html/panel.php on line 58
+[23-Jan-2025 13:28:57 Europe/London] PHP Parse error:  Unmatched '}' in /home/opaiir/public_html/panel.php on line 164
+[23-Jan-2025 14:01:10 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 338
+[23-Jan-2025 14:01:10 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:338
+Stack trace:
+#0 /home/opaiir/public_html/card.php(338): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 338
+[23-Jan-2025 14:01:21 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:21 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:47 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:47 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:48 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:48 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:48 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:48 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:49 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:49 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:49 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:49 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:50 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:50 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:50 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:50 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:51 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:51 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:52 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:52 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:53 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:53 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:53 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:53 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:54 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:01:54 Europe/London] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/opaiir/public_html/card.php:237
+Stack trace:
+#0 /home/opaiir/public_html/card.php(237): implode()
+#1 {main}
+  thrown in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 14:02:40 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 18:26:53 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 18:27:52 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 18:27:57 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 237
+[23-Jan-2025 18:28:57 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 239
+[23-Jan-2025 18:30:14 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 238
+[23-Jan-2025 18:30:20 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 238
+[23-Jan-2025 18:41:22 Europe/London] PHP Warning:  Undefined array key "card" in /home/opaiir/public_html/card.php on line 14
+[23-Jan-2025 19:41:32 Europe/London] PHP Warning:  Undefined variable $test in /home/opaiir/public_html/card.php on line 304
+[23-Jan-2025 19:41:32 Europe/London] PHP Warning:  Undefined variable $test in /home/opaiir/public_html/card.php on line 317
+[23-Jan-2025 21:29:06 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[23-Jan-2025 21:29:06 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[23-Jan-2025 21:29:13 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[23-Jan-2025 21:29:13 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[23-Jan-2025 21:29:14 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[23-Jan-2025 21:29:14 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[23-Jan-2025 21:29:30 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[23-Jan-2025 21:29:30 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 10:43:35 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 10:43:35 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 14:00:03 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 14:00:03 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 14:00:12 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 14:00:12 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 14:00:12 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 14:00:12 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 14:00:13 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 14:00:13 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 14:00:13 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 14:00:13 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 14:00:18 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[24-Jan-2025 14:00:18 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[24-Jan-2025 15:59:37 Europe/London] PHP Warning:  Undefined variable $stmt in /home/opaiir/public_html/panel.php on line 58
+[24-Jan-2025 15:59:37 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/opaiir/public_html/panel.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 58
+[24-Jan-2025 15:59:54 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fd' in 'where clause' in /home/opaiir/public_html/panel.php:61
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(61): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 61
+[24-Jan-2025 16:01:32 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'fd' in 'where clause' in /home/opaiir/public_html/panel.php:61
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(61): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 61
+[24-Jan-2025 16:01:50 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ffd' in 'where clause' in /home/opaiir/public_html/panel.php:61
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(61): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 61
+[24-Jan-2025 16:04:41 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ffd' in 'where clause' in /home/opaiir/public_html/panel.php:58
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 58
+[24-Jan-2025 16:07:31 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ffd' in 'where clause' in /home/opaiir/public_html/panel.php:58
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(58): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 58
+[24-Jan-2025 16:10:56 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/opaiir/public_html/panel.php:80
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(80): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 80
+[24-Jan-2025 16:13:11 Europe/London] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'dfs' in 'where clause' in /home/opaiir/public_html/panel.php:66
+Stack trace:
+#0 /home/opaiir/public_html/panel.php(66): mysqli->query()
+#1 {main}
+  thrown in /home/opaiir/public_html/panel.php on line 66
+[24-Jan-2025 16:17:00 Europe/London] PHP Parse error:  syntax error, unexpected token "<" in /home/opaiir/public_html/panel.php on line 51
+[25-Jan-2025 05:13:27 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[25-Jan-2025 05:13:27 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[25-Jan-2025 05:14:05 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[25-Jan-2025 05:14:05 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[25-Jan-2025 05:15:10 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[25-Jan-2025 05:15:10 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[31-Jan-2025 18:29:48 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[31-Jan-2025 18:31:46 Europe/London] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA7AKp8DhUbJty1_d2Q9mv67K8w&amp;response=0.dQrwOz6156Pb52oZDGrBFxZGPvNlUH8DkvlgHbouQtOoZcufTrCnRWuKdskdCnepE_TmjcYV-_S-IVeDlD2jbwO4IvB1GsnwFQPGKUyeuwgr27PyGgUvpoBU1iMUNibbtq6TULGP8bx_n_guABvBK3PyGlaEw91cCAMiVjPMfxAvuUYeETJkXgdS9Ps30GDk2ALE-oUmsjHnpDZieWvzxkdbBwS3rrCqbjM8-tJPfNCGg8RPD_JohRQpXu8atjr2ZHLGHYjirU6GblaDRWt9uRQ8_ixMhTog-VeNMpNm51yh_dxvEevoeLs6hgyLCUSlPl90f0RafXJqecIhhgK6hmeis4vK-cD-vx48suRwIjAvyY2Am_0e81qag9t-11VNvD8qPn-wBinz360-LWXMnigO8bX_5QVdyk87jVv6wnrU_K1-jVbC48Hyh6qZHS0KGyVD6fSGsHAUQ2S635YbB_-LKoMSgWC1xN8sulB3FdB_vUkKdPDX5XUGjafdTCSGnMv58T2b9P1DMhnbuVF-A6rgewrow5gGOvNEtoBohV7rcjWrR69eFehxo8eNlmTykEG1d6Mftmblwr_INQI6z2k0G1IN6TuHhk-3xkDrsp2eu7YurjpqbDBONrLsLlsxKOsdo8YR0N1UlJktmDfxRQE6_VFLXTwS6meeoJeuVrDkx1MQk7AdnM6yYFL6h4MO0IJoOPazRg0ZRBnBZbqa54nrxr99-EKUPLYGDz77VelM2T0Zt2g4BkYd_Nsn9bVESJ_hgeuly3J9eoqKwxIw9U0zCtiDp_yPOOEYFt1pLdtaPQ4jdqJDzUHVLrzngdgvcG661FqcSyn_SVysRSyuHQ.2Uh2PPxuWBQEyI5doWDykw.c97bf773b956a8f8111dc947f9a1827b8b23b951bcece745232a0f5b8dcd1ef8): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/opaiir/public_html/test.php on line 14
+[31-Jan-2025 18:31:46 Europe/London] PHP Warning:  Trying to access array offset on null in /home/opaiir/public_html/test.php on line 18
+[31-Jan-2025 18:33:02 Europe/London] PHP Warning:  file_get_contents(https://challenges.cloudflare.com/turnstile/v0/siteverify?secret=0x4AAAAAAA7AKp8DhUbJty1_d2Q9mv67K8w&amp;response=0.d5SXql133AS69AqAMIBRiXYLpHvqfvxrjRkclaKRnFF8HzePa1j4mQsFxlxy4CslRDPZLuVrc8XY93-L7uV_BEVdJUNtOT96d46_eqByLZg6ZbwgxMyO55OHsAGW8ghmKU9CesmJYoZ7drce1DKxlv9j-uUJZ6BYFPh5QXS2SULUR_j39veNzPpMLaZLjKx1FHgClNI_MoT-06EX1ME3NX5ngj976vvZCfsfWAcCFLBR7UrDYoDAXlNJQis9jVZyCMILCBlf8hf-qJ9fRvhTouw8fl9jwLDtZpGaQwvNyyGIaaqxs5BjMPZMMaBQF6DYF3PF8nzp2jsVwKg4KGdnYjY2iml_lAlo9iZunALVdDIqH9wjpq1gGMf2S0Q3l2dolLvOdM0NyfsrWENtYCpxG9Bqo68SppGCd389x0Gf_94XcuY7PchXb3SBKV0mSKpgR1Z2FncVLo59ifMNbF8-DXAAZg7goczsldoigQfDkyL4-m2RaoF2u-a_5ipF0vPlYlWvs-Tze0iqH2w1Guck2WQRRSQqoANAFAoffa2B4IO8jsO56EHwejJq0r_zh8JJif6_ArMmvG5fdeHNVQwtNqXJH2UEjv-ZQ6cfFWWia1F3HIk8BphMTUP_ukrJOX1KC_rZIZYRXcyYouBb3v9By1Fn_4B_q4zs92BM-iCYRWDK_nfkDmkxkgFCi3r1Iob9TyvfQc98HlCuAfkEd7lmO4fX0x-fbQNPGkvwM2sXVBURkInXfr6aSuXjZLO-lzD1ej9Y-VCc_RD_oJ-VfSiUrbVVxpGfTy7ij5lH9wmt8ExAxmVNNZYjdtcGumHLPTde6mDCS8xqgmyOSAwro-Ni8A.QgbS5aAy9IzWX0GCmPNqLA.934079970aaf968da2098ad868fcd80695eda47b163c8ae69382e3b60c16c33d): Failed to open stream: HTTP request failed! HTTP/1.1 405 Method Not Allowed
+ in /home/opaiir/public_html/test.php on line 14
+[31-Jan-2025 18:33:02 Europe/London] PHP Warning:  Trying to access array offset on null in /home/opaiir/public_html/test.php on line 18
+[09-Mar-2025 18:03:17 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:24:35 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:24:40 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:24:41 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:24:52 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:25:00 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:25:02 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:25:03 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[09-Mar-2025 19:25:18 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/signin.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/signin.php on line 92
+[10-Mar-2025 00:26:13 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 00:41:27 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 00:41:30 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 02:08:08 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:18:51 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[10-Mar-2025 07:18:51 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:18:53 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[10-Mar-2025 07:18:53 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:19:01 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:20:52 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:20:52 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:20:53 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:20:53 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:20:54 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:23:10 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:24:00 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 07:24:06 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/signin.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/signin.php on line 92
+[10-Mar-2025 10:59:13 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 10:59:19 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 11:00:00 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 14:20:44 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 14:59:59 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 15:10:04 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 17:33:14 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 17:36:53 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 18:07:08 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 19:03:28 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 20:13:20 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 20:13:20 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 20:13:20 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 21:14:10 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 21:14:21 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 21:14:30 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 21:55:07 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[10-Mar-2025 22:58:25 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 02:49:03 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 02:49:04 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 02:49:04 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 07:52:31 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 09:45:58 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 12:14:52 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 12:14:52 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 14:49:44 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 15:59:10 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 17:03:31 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 17:03:31 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 17:03:31 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 19:15:47 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 23:12:49 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[11-Mar-2025 23:12:55 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 05:05:55 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 07:51:57 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 07:52:04 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 08:35:38 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 11:54:54 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 21:21:10 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 21:21:10 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[12-Mar-2025 21:21:11 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 04:44:35 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 04:44:39 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 07:58:39 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 10:15:32 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 12:01:47 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 17:13:21 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[13-Mar-2025 17:55:16 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 13:02:54 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 13:46:27 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 13:46:32 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 15:15:50 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 16:37:19 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 18:22:04 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 20:56:27 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 20:56:27 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 20:56:28 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[14-Mar-2025 23:14:32 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 06:12:38 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[15-Mar-2025 06:12:38 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 07:02:49 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 08:26:42 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 08:26:44 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 09:10:17 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 10:20:37 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 10:20:39 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 15:13:21 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[15-Mar-2025 15:13:26 Europe/London] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/opaiir/public_html/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/index.php on line 8
+[18-Apr-2025 19:47:01 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[18-Apr-2025 19:47:01 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[01-May-2025 02:13:36 Europe/London] PHP Warning:  Undefined variable $cards in /home/opaiir/public_html/card.php on line 312
+[01-May-2025 02:13:36 Europe/London] PHP Warning:  Undefined variable $price in /home/opaiir/public_html/card.php on line 325
+[11-May-2025 19:29:14 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/opaiir/public_html/signin.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/signin.php on line 108
+[11-May-2025 19:31:17 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/opaiir/public_html/signin.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/signin.php on line 108
+[11-May-2025 19:31:37 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/opaiir/public_html/signin.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/signin.php on line 108
+[11-May-2025 19:35:34 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/opaiir/public_html/signin.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/opaiir/public_html/signin.php on line 108
+[12-May-2025 10:54:28 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/accounts.php on line 17
+[12-May-2025 10:58:38 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
+[12-May-2025 11:22:08 Europe/London] PHP Warning:  Undefined array key "user" in /home/opaiir/public_html/panel.php on line 17
